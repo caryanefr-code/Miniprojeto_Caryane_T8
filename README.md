@@ -12,7 +12,7 @@ Este projeto realiza a auditoria de qualidade, higienização, padronização e 
 ## 2. Origem da Base de Dados
 * **Fonte Original**: Base `Base Varejo.csv` (SCTI.SC / FATEC Rubens Lara).
 * **Link de Download (Kaggle)**: [Kaggle - Base Varejo (namespaiva)](https://www.kaggle.com/datasets/namespaiva/base-varejo/code)
-* **Período Analisado**: Transações registradas de **04/01/2019 a 08/12/2022**.
+* **Período Analisado**: Transações registradas de **04/01/2019 a 08/12/2022**
 * **Volume Bruto**: 830.000 linhas x 14 colunas.
 
 ## 3. Unidade da Análise
