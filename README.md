@@ -56,6 +56,6 @@ Focar ações promocionais e programas de fidelidade no abastecimento da categor
 
 ## 11. Como Executar
 1. Clone este repositório ou baixe os arquivos.
-2.  Certifique-se de ter o Python 3.x com `pandas`, `matplotlib` e `seaborn` instalados.
-3. Coloque o arquivo `Base Varejo.csv` na mesma pasta do script.
-4. Execute o notebook `projeto_varejo_aed.py` do início ao fim para regenerar o arquivo `varejo_limpo.csv`.
+2. **Certifique-se** de ter o Python 3.x com `pandas`, `matplotlib` e `seaborn` instalados.
+4. Coloque o arquivo `Base Varejo.csv` na mesma pasta do script.
+5. Execute o notebook `projeto_varejo_aed.py` do início ao fim para regenerar o arquivo `varejo_limpo.csv`.
